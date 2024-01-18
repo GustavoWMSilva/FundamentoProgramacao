@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Classes
+comment1.params=nascAno\ nascDia\ nascMes
+comment1.target=void\ tempoAniver(int,\ int,\ int)
+comment2.params=ano
+comment2.target=boolean\ anoBissexto(int)
+comment3.params=nascDia\ nascMes\ nascAno
+comment3.target=int\ diaSemana(int,\ int,\ int)
+comment4.params=dataAtual\ dataNascimento
+comment4.target=void\ vivel(java.time.LocalDateTime,\ java.time.LocalDateTime)
+comment5.params=nascDia\ nascMes
+comment5.target=void\ aniver(int,\ int)
+comment6.params=nascDia\ nascMes\ nascAno
+comment6.target=void\ semanaNasceu(int,\ int,\ int)
+comment7.params=
+comment7.target=int\ nascHora()
+comment8.params=
+comment8.target=int\ nascMin()
+numComments=9

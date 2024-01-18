@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AppAplicacao
+comment1.params=
+comment1.target=int\ menuPrincipal()
+comment2.params=
+comment2.target=Paciente\ registrarPaciente()
+comment3.params=
+comment3.target=java.lang.String\ geradorCpf()
+comment4.params=consultas
+comment4.target=int\ valorConsulta(int)
+comment5.params=palavra
+comment5.target=int\ vogais(java.lang.String)
+comment6.params=tamanhoVetor\ pacientes
+comment6.target=void\ imprime(int,\ Paciente[])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

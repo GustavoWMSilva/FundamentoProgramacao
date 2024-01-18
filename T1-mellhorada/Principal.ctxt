@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\r\nTrabalho1\ \r\n\r\n\ @author\ (Gustavo\ W.M.\ Silva\ -\ 22111252-7)\r\n\ @Apredizado\ (\r\n\ Utilizei,\ como\ aprendido\ em\ aula\ o\ Array,\ dando\ uma\ boa\ simplificada\ no\ codigo\ e\ diminuindo\ o\ numero\ de\ repeti\u00E7\u00E3o\ de\ informa\u00E7\u00E3o.\ \r\n\ Utilizei\ e\ manipula\u00E7\u00E3o\ de\ informa\u00E7\u00E3o\ nas\ classes\ para\ deixar\ o\ codigo\ mais\ organizado\ visualmete.\r\n\ O\ trabalho\ me\ possibilitou\ a\ aplica\u00E7\u00E3o\ de\ diversas\ aprendizados\ (metodos,\ classes...)\ em\ um\ unico\ programa,\ tendo\ eles\ interligados,\ \r\n\ com\ um\ utilizando\ o\ outro\ e\ me\ ajudou\ a\ melhorar\ o\ meu\ dominio\ sobre\ alguns\ conceitos;\ \r\n\ \r\n\ Problema\:\ esta\ no\ readme\ e\ esta\ logo\ abaixo\r\n\ )\r\n\ @version(16/06/2022)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

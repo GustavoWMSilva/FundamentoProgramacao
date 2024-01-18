@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=VerbosRegulares
+comment1.params=prefixo
+comment1.target=void\ presenteEr(java.lang.String)
+comment2.params=prefixo
+comment2.target=void\ passadoEr(java.lang.String)
+comment3.params=prefixo
+comment3.target=void\ futuroEr(java.lang.String)
+comment4.params=prefixo
+comment4.target=void\ presenteAr(java.lang.String)
+comment5.params=prefixo
+comment5.target=void\ passadoAr(java.lang.String)
+comment6.params=prefixo
+comment6.target=void\ futuroAr(java.lang.String)
+comment7.params=prefixo
+comment7.target=void\ presenteIr(java.lang.String)
+comment8.params=prefixo
+comment8.target=void\ passadoIr(java.lang.String)
+comment9.params=prefixo
+comment9.target=void\ futuroIr(java.lang.String)
+numComments=10
